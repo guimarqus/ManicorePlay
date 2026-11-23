@@ -50,5 +50,3 @@ class Usuario {
         return password_verify($senhaDigitada, $this->senhaHash);
     }
 }
-
-?>
