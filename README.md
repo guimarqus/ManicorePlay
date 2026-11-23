@@ -1,2 +1,2 @@
 # ManicorePlay
-Repositorio para o trabalho de PO
+Repositorio para o trabalho de POO
