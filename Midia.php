@@ -1,6 +1,7 @@
 
 <?php
-// guilherme marques que fez a classe abstrata que servirá para as outras classes de midia, como filmes e series herdarem suas propriedades e métodos.
+// guilherme marques (2026106090041) que fez a classe abstrata que servirá para as outras classes de midia,
+// como filmes e series herdarem suas propriedades e métodos.
 abstract class Midia
 {
     protected ?int $id;
